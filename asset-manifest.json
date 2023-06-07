@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GQL-B2/static/css/main.4cb8e3f0.css",
+    "main.js": "/GQL-B2/static/js/main.4a26b056.js",
+    "index.html": "/GQL-B2/index.html",
+    "main.4cb8e3f0.css.map": "/GQL-B2/static/css/main.4cb8e3f0.css.map",
+    "main.4a26b056.js.map": "/GQL-B2/static/js/main.4a26b056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb8e3f0.css",
+    "static/js/main.4a26b056.js"
+  ]
+}
